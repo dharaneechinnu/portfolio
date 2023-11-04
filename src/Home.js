@@ -1,13 +1,15 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import logo1 from "./Img/port1.jpg"
+import { Nav } from 'react-bootstrap'
 
 
 const Home = () => {
   return (
-    
+    <>
+    <Nav/>
     <div className='hero'>
-     
+   
       <div className="mask">
         <img src={logo1} className='into-img' alt=''/>
       </div>
@@ -21,6 +23,7 @@ const Home = () => {
       </div>
      </div>
     </div>
+    </>
   )
 }
 

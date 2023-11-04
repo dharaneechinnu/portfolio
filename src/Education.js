@@ -9,7 +9,7 @@ const Education = () => {
       </div>
      <div className="content">
       <div className="typing">
-      <h2>Education & Experience </h2>
+      <h2>Education</h2>
       <p>Passionate Educator on a Journey of Knowledge</p>
       </div>
      </div>
@@ -19,8 +19,7 @@ const Education = () => {
 2022 Batch</p>
 <p>SRM University, Ramapuram — BTech Information Technology
 2022 - 2026 Batch</p><br></br><br></br>
-<h2 className='titlecon'>Experience</h2>
-<p>I have done One Intership with Bharat Inter </p>
+
     </div>
     </div>
   )

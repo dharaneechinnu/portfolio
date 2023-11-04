@@ -15,11 +15,11 @@ const Skill = () => {
    <div className="who">
     <h2 className='titlecon'>My Skill</h2>
     <ul><li>Proficient in <strong>HTML</strong>, creating the structural foundation of web pages.</li></ul>
-    <ul><li>Skilled in <strong>CSS</strong>styling web pages to enhance design and user experience.</li></ul>
+    <ul><li>Skilled in <strong>CSS</strong> styling web pages to enhance design and user experience.</li></ul>
     <ul><li>Strong grasp of <strong>JavaScript</strong> for creating interactive and dynamic web applications.</li></ul>
     <ul><li>Experience in building modern and efficient user interfaces using <strong>ReactJS</strong> library.</li></ul>
     <ul><li>Familiarity with <strong>Python</strong> programming language and basic concepts.</li></ul>
-    <ul><li>ompetent in using <strong>Git</strong> version control and GitHub for collaborative development and project management.</li></ul>
+    <ul><li>ompetent in using <strong>Git</strong> version control and <strong>GitHub</strong> for collaborative development and project management.</li></ul>
   </div>
   </div>
   )
